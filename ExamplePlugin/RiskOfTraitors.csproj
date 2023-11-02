@@ -58,13 +58,13 @@
       <Private>false</Private>
     </Reference>
     <Reference Include="R2API.CommandHelper">
-      <HintPath>..\..\..\..\..\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\MeatyAmonglike\BepInEx\plugins\RiskofThunder-R2API_CommandHelper\R2API.CommandHelper\R2API.CommandHelper.dll</HintPath>
+      <HintPath>libs\R2API.CommandHelper.dll</HintPath>
     </Reference>
     <Reference Include="R2API.DamageType">
-      <HintPath>..\..\..\..\..\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\MeatyAmonglike\BepInEx\plugins\RiskofThunder-R2API_DamageType\R2API.DamageType\R2API.DamageType.dll</HintPath>
+      <HintPath>libs\R2API.DamageType.dll</HintPath>
     </Reference>
     <Reference Include="R2API.Networking">
-      <HintPath>..\..\..\..\..\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\MeatyAmonglike\BepInEx\plugins\RiskofThunder-R2API_Networking\R2API.Networking\R2API.Networking.dll</HintPath>
+      <HintPath>libs\R2API.Networking.dll</HintPath>
     </Reference>
     <Reference Include="Rewired_Windows_Lib">
       <HintPath>libs\Rewired_Windows_Lib.dll</HintPath>

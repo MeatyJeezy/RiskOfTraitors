@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using RoR2;
-using UnityEngine.UI;
+﻿using UnityEngine.UI;
 using UnityEngine;
 
 namespace RiskOfTraitors
